@@ -104,6 +104,8 @@ public class Main {
             System.out.println("только родился");
         }
 
+    if(true){}
+
         int a = 10;
         int b = 20;
         int c = 30;
