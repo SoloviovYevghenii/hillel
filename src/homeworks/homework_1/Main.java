@@ -100,6 +100,9 @@ public class Main {
         if (age < 0 || age > 120) {
             System.out.println("Something went wrong");
         }
+        if (age == 0 ) {
+            System.out.println("только родился");
+        }
 
         int a = 10;
         int b = 20;
