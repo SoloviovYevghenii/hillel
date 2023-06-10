@@ -104,7 +104,11 @@ public class Main {
             System.out.println("только родился");
         }
 
+
     if(true){}
+
+        if(age == 10){ System.out.println("один год");};
+
 
         int a = 10;
         int b = 20;
