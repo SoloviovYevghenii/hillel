@@ -107,6 +107,10 @@ public class Main {
             System.out.println("один год");
         }
 
+        if("cherry-pick" == ""){
+            System.out.println("один год");
+        }
+
         if(age == 10){ System.out.println("один год");};
 
         int a = 10;
